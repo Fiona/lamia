@@ -1,0 +1,29 @@
+Lamia immediate todo list
+
+[x] Make task availability global
+[x] unit tests for research effects
+[x] Upgrade and research unlock messages (which buildings are unlocked etc)
+[x] rename warehouse so it's log-specific
+[x] Make upgrades global
+[x] Move UI so research and upgrades are separated from pop and buildings (global/local)
+  [x] local buttons below resources
+  [x] global buttons above main window
+  [x] Put message history in permanent place (not moveable)
+[x] remove vertical drag thing for settlement tabs
+[x] reduce size of buttons so can fit more
+[x] make building unlocks global
+[x] When restarting the game, the number of population carries over and unlocks research too fast
+[ ] Task capacity (add canteen and limit meal preparation per canteen)
+[ ] Auto show population page when first opening
+[ ] Add settings with UI scale option
+[ ] add building categories
+[ ] add concept of a surface
+[ ] generate locations from map
+[ ] add explorer job and research
+[ ] show map, guys explore map
+
+
+Later todo list
+* create new settlements
+* ui to switch between settlements
+* Task capacity from buildings
